@@ -94,7 +94,7 @@ fabric.properties
 *.asp
 *.cer
 *.csr
-*.css
+# *.css
 *.htm
 *.html
 *.js
